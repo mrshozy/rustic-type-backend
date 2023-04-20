@@ -1,0 +1,22 @@
+# Rust generated files
+target/
+
+# Rust/Cargo lock file
+Cargo.lock
+
+# Rust/Cargo build directory
+# Uncomment if you want to ignore build artifacts in the repository.
+# If you're distributing the source code, you should not ignore this directory.
+# /target/
+
+# Rust toolchain configuration file
+.rustup
+
+# IntelliJ Rust plugin configuration file
+.idea/
+
+# Visual Studio Code Rust plugin configuration file
+.vscode/
+
+# Compiled binary file (for example, `my_app`)
+my_app
